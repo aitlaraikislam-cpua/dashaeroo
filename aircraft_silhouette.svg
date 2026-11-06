@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 270" fill="none">
+<g stroke="#42cfe0" stroke-width="1.7" opacity=".72">
+<path d="M35 159 L360 147 L505 58 Q530 43 546 47 Q559 52 540 69 L449 147 L690 139 L825 112 Q850 108 859 119 Q865 129 843 136 L692 169 L452 169 L547 218 Q561 226 550 234 Q539 242 523 229 L357 170 L35 174 Z"/>
+<path d="M450 147 L489 169 M360 147 L354 170 M95 155 L95 177 M820 113 L840 136" opacity=".55"/>
+<path d="M20 196 H875 M72 207 H825" stroke-dasharray="4 9" opacity=".35"/>
+<circle cx="190" cy="164" r="4" fill="#42cfe0"/><circle cx="715" cy="154" r="4" fill="#42cfe0"/>
+</g></svg>
